@@ -1,0 +1,11 @@
+/* Estilo general del body */
+body {
+  margin: 0;
+  overflow: hidden; /* Evitar scroll */
+  background-color: black; /* Fondo negro */
+}
+
+/* Canvas ocupa toda la pantalla */
+canvas {
+  display: block;
+}
